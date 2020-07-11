@@ -5,6 +5,7 @@ var cacheName = 'cache-v3';
 */
 var files = [
     './',
+    './aero.html',
     './index.html',
     './css/styles.css',
     '/js/notify.js',
@@ -13,11 +14,12 @@ var files = [
     '/js/push.js',
     '/js/networkChange.js',
     './manifest.json',
-    './images/icon_16.png',
-    './images/icon_32.png',
-    './images/icon_192.png',
-    './images/icon_256.png',
-    './images/icon_512.png',
+    'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s16/K-A-Logo.png.png',
+    'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s32/K-A-Logo.png.png',
+    'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s192/K-A-Logo.png.png',
+    'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s256/K-A-Logo.png.png',
+    'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s512/K-A-Logo.png.png',
+    "https://kasworld-aero.blogspot.com",
     "https://use.fontawesome.com/releases/v5.2.0/css/all.css"
 ];
 
