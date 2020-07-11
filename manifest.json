@@ -1,7 +1,7 @@
 {
-	"name": "PWA Starter Demo ",
+	"name": "Kasworld-Aero ",
 	"short_name": "KASWORLD",
-	"description": "PWA starter demo with features like sync, push etc",
+	"description": "Kasworld-Aero Aviation Updates and Flight Informatins",
 	"start_url": "./index.html?ref=home",
 	"display": "standalone",
 	"orientation": "portrait",
@@ -20,9 +20,9 @@
 		}	
 	],
 	"author": {
-		"name": "Gaurav Behere",
-		"website": "http://gauravbehere.in",
-		"github": "https://github.com/gauravbehere"		
+		"name": "Kasworld-Aero",
+		"website": "https://kasworld-aero.blogspot.com",
+		"github": "https://github.com/kasworld-aero"		
     },
     "gcm_sender_id": "103953800507",
     "gcm_user_visible_only": true
