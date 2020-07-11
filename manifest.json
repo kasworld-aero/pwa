@@ -5,8 +5,8 @@
 	"start_url": "./index.html?ref=home",
 	"display": "standalone",
 	"orientation": "portrait",
-	"background_color": "#000000",
-	"theme_color": "#000000",
+	"background_color": "#ffff",
+	"theme_color": "#ffff",
 	"icons": [	
         {
 			"src": "https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s192/K-A-Logo.png.png",
@@ -24,6 +24,6 @@
 		"website": "https://kasworld-aero.blogspot.com",
 		"github": "https://github.com/kasworld-aero"		
     },
-    "gcm_sender_id": "103953800507",
+    "gcm_sender_id": "416540625547",
     "gcm_user_visible_only": true
 }
