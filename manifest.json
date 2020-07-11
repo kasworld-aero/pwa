@@ -1,6 +1,6 @@
 {
 	"name": "PWA Starter Demo ",
-	"short_name": "PWA Demo",
+	"short_name": "KASWORLD",
 	"description": "PWA starter demo with features like sync, push etc",
 	"start_url": "./index.html?ref=home",
 	"display": "standalone",
@@ -9,12 +9,12 @@
 	"theme_color": "#000000",
 	"icons": [	
         {
-			"src": "./images/icon_192.png",
+			"src": "https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s192/K-A-Logo.png.png",
 			"type": "image/png",
 			"sizes": "192x192"
 		},
 		{
-			"src": "./images/icon_512.png",
+			"src": "https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s512/K-A-Logo.png.png",
 			"type": "image/png",
 			"sizes": "512x512"
 		}	
