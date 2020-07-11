@@ -2,7 +2,7 @@
 	"name": "Kasworld-Aero ",
 	"short_name": "KASWORLD",
 	"description": "Kasworld-Aero Aviation Updates and Flight Informatins",
-	"start_url": "https://kasworld-aero.blogspot.com?ref=home",
+	"start_url": "./index.html?ref=home",
 	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#000000",
