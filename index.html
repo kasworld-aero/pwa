@@ -36,25 +36,32 @@
 </head>
 
 <body>
-    <header>
-        <span class="logo" onclick="window.location='https://kasworld-aero.blogspot.com/'"></span>
-        Kasworld-Aero
-    </header>
+    
     <div id="contentDiv">
         
         <center> <h2><br/><br/>First Add to Home Shortcut</h2><br/><br/><br/><br/></center>
         
+       
+<script>
+        window.onload = function () {
+            setTimeout(appeardiv,30000);
+        }
+        function appeardiv() {
+            document.getElementById('ka-d').style.display= "block";
+        }
+    </script>
         
-        
-        <center><h2><a href="https://kasworld-aero.blogspot.com/">After Add Click here</a></h2> </center>
+         <div id='ka-d' style='display:none'>
+  <center><h2>
+<a href="https://kasworld-aero.blogspot.com" id="link" target="_blank">After Add Click here</a></h2>
+</center>
+</div>
+        <center> </center>
         
                
         </div>
     </div>
-    <footer>
-        &copy; Copyright 2020 &nbsp;
-        <a href="http://kasworld-aero.blogspot.com" target="_blank">Kasworld-Aero</a>
-    </footer>
+    
 
     <script src="./js/notify.js"></script>
     <script src="./js/networkChange.js"></script>
