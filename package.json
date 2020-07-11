@@ -1,7 +1,7 @@
 {
-    "name": "pwa-starter-demo",
+    "name": "Kasworld-Aero",
     "version": "1.0.0",
-    "author": "https://github.com/gauravbehere",
+    "author": "https://github.com/kasworld-aero",
     "license": "MIT",
     "scripts": {
         "start": "node server.js"
