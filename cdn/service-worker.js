@@ -4,11 +4,11 @@ self.addEventListener('install', function(event) {
             return cache.addAll([
                 '/',
                 'https://kasworld-aero.blogspot.com/',
-                'https://cdn.jsdelivr.net/kasworld-aero/pwa/cdn/manifest.json',
+                'https://cdn.jsdelivr.net/gh/kasworld-aero/pwa/cdn/manifest.json',
 'https://kasworld-aero.blogspot.com/feeds/posts/default',
 'https//www.blogger.com/feeds/9090379976702614384/posts/default',
 'https://kasworld-aero.blogspot.com/feeds/posts/default?alt=rss',
-'https://cdn.jsdelivr.net/kasworld-aero/pwa/cdn/service-worker.js',
+'https://cdn.jsdelivr.net/gh/kasworld-aero/pwa/cdn/service-worker.js',
                 '/https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s192/K-A-Logo.png.png',
 'https://3.bp.blogspot.com/-LWBcmlIv6HY/XwlEqx7LUMI/AAAAAAAAFNg/hFI24yPnk6EsQqjSTMHCKAvlK2HApklDACPcBGAsYHg/s512/K-A-Logo.png.png',
 'https://kasworld-aero.blogspot.com//favicon.ico',
