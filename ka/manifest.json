@@ -1,15 +1,16 @@
 {
-  "name": "KASWORLD AERO",
+  "name": "KASWORLD-AERO",
   "short_name": "KASWORLD",
   "start_url": "https://kasworld-aero.blogspot.com",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "theme_color": "#fff",
   "icons": [
     {
       "src": "https://kasworld-aero.blogspot.com/favicon.ico",
-      "sizes": "512x512",
+      "sizes: "48x48 72x72 96x96 144x144 192x192 512x512",
       "type": "image/png"
     }
+    
   ]
 }
