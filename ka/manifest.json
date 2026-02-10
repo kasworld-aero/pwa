@@ -3,6 +3,7 @@
   "short_name": "KASWORLD",
   "start_url": "https://kasworld-aero.blogspot.com",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#fff",
   "icons": [
@@ -10,7 +11,23 @@
       "src": "https://kasworld-aero.blogspot.com/favicon.ico",
       "sizes": "48x48 72x72 96x96 144x144 192x192 512x512",
       "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5410I2c_5I9s0ajiwVAuHMMkGOxZ6DI1ybe3MWFDXDmap1vTvLyQB-04fzN3362jUB69xShjHuAI3wTSsMUp7bq1WfRjvApV30pF39A0Hq60MObs9uFOSVndd_VzKcLzJbngzkmasdUH/s32/K-A-Logo.png.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5410I2c_5I9s0ajiwVAuHMMkGOxZ6DI1ybe3MWFDXDmap1vTvLyQB-04fzN3362jUB69xShjHuAI3wTSsMUp7bq1WfRjvApV30pF39A0Hq60MObs9uFOSVndd_VzKcLzJbngzkmasdUH/s16/K-A-Logo.png.png",
+      "sizes": "16x16",
+      "type": "image/png"
     }
     
-  ]
+  ],
+  "author": {
+		"name": "Kasworld-Aero",
+		"website": "https://kasworld-aero.blogspot.com"
+    },
+    "gcm_sender_id": "416540625547",
+    "gcm_user_visible_only": true
 }
